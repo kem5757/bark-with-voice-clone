@@ -1,0 +1,54 @@
+wavs/0.wav|En alttaki zindandan en yüksekteki uca kadar her yerine savaştım Morgotlu balrogla. Sonunda düşmanı aşağı atıp helak olmuş halini dağın yamacına çaldım.
+wavs/1.wav|Ve hem düşünceden hem zamandan azade kaldım.
+wavs/2.wav|Yıldızlar devrettiler tepemde.
+wavs/3.wav|Her gün dünya üzerindeki bir ömür kadardı.
+wavs/4.wav|Lakin işin nihayeti bu değildi. Yeniden içimde hayat hissettim.
+wavs/5.wav|Ben de döndüm size. Yolculuğumuzun bir safhası bitti biri başlıyor. Rohan'da savaş başladı. Tüm hızımızla ile Edoras'a yollanmalıyız.
+wavs/6.wav|Gölge yele, tüm atların efendisi.
+wavs/7.wav|Nice tehlikelerde dostluk etti.
+wavs/8.wav|Gollum o. Üç gündür peşimizden geliyor.
+wavs/9.wav|Kaçmış ya da salınmış.
+wavs/10.wav|Yüzüğü hem seviyor hem nefret ediyor. Yazık mı?
+wavs/11.wav|Bilbo'yu durduran ona acımasıydı.
+wavs/12.wav|Canlıların birçoğu ölümü hak eder.
+wavs/13.wav|Ölülerin bazıları da yaşamı. Yaşamı onlara verebilir misin Frodo?
+wavs/14.wav|Ölüm hakkında hüküm vermek için acele etme.
+wavs/15.wav|Bilgeler bile sonu göremez.
+wavs/16.wav|..hislerim, kollumun iyi ya da kötü rolünün bu iş bitmeden...
+wavs/17.wav|Bitmeyeceğini söylüyor. Bilbo'nun merhameti birçok kişiyi etkileyebilir.
+wavs/18.wav|Böyle şeyler yaşayan herkes öyle der ama karar onlara kalmamıştır.
+wavs/19.wav|Yapmamız gereken, bize verilen zamanda yapacağımıza karar vermek.
+wavs/20.wav|Dünyada kötülüğün dışında hareket eden güçler de var Frodo. Bilbo'nun yüzüğü bulması icap ediyordu.
+wavs/21.wav|Bu durumda senin de ona sahip olman icap ediyor.
+wavs/22.wav|Şu taraftan. Hayır.
+wavs/23.wav|Hatırlamadım ama burada hava daha temiz.
+wavs/24.wav|Kuşkun varsa, Meryadok hep burnuna güven.
+wavs/25.wav|Tabii yani şimdi oyunculuk bir bütün. Kendisini konuştuğu zaman bir oyuncu.
+wavs/26.wav|Ama bunun için gerçekten oyuncuların...
+wavs/27.wav|oynaması gerekiyor. Kendisini konuştuğu zaman bir bütün.
+wavs/28.wav|görüntüleri çekilip başkasının konuştuğu kişilere görüntüsü çekilene ödüller verilmiştir.
+wavs/29.wav|Ufak bir şey var. Tabii ki bu kimseyi şey yapmak, rencide etmek anlamına söylemiyorum ama.
+wavs/30.wav|Son dönemlerde genellikle herkes kendisini konuşmaya başladı. Genellikle doğrusu bu.
+wavs/31.wav|Onun için Türk sineması galiba, galiba değil mutlaka çok daha iyiye doğru gidiyor.
+wavs/32.wav|Tabii tabii tabii yani seslendirme yapan birisi yolda yürürken bir şey söylediği zaman duyan, siz bilmem kimsiniz değil mi? O olmadığını bile bile ama.
+wavs/33.wav|Siz şu kişisiniz değil mi? Dior'iydi. Ama tabi yabancı filmlerin dublajı çok farklı.
+wavs/34.wav|Tabii ki o son derece farklı. Öyle olması gerekiyor.
+wavs/35.wav|Tabii altyazıyla izlemek, orijinalini izlemek.
+wavs/36.wav|Ama herkes içinde, her seyirci içinde o geçerli değil.
+wavs/37.wav|Bakıyorum da konağınızdaki konukseverlik oldukça...
+wavs/38.wav|Azalmış gibi. Sen sus. Çatallı dilini dişlerinin ardında tut.
+wavs/39.wav|Bir uşakla ağız dalaşına girmek için geçmedim ateşle ölümden. Kulak verin! Seni bu tılsımdan......azat ediyorum.
+wavs/40.wav|Hür havayı çek ciğerine dostum.
+wavs/41.wav|Parmakların bir kılıcı kavrasaydı...
+wavs/42.wav|Eski gücünü daha iyi hatırlardı.
+wavs/43.wav|Neler gördün? Minas Trith, orayı mı gördün?
+wavs/44.wav|Konuş! Ona Frodo ve yüzükle ilgili ne söyledin?
+wavs/45.wav|Pippin'in gözlerinde yalan yoktu. Budala.
+wavs/46.wav|Ama hala dürüst bir budala. Sauron'a, Frodo ve yüzükten hiç bahsetmemiş. Tuhaf ama çok talihliyiz.
+wavs/47.wav|Pipin, Palantir'de bir an için düşmanın planını gördü.
+wavs/48.wav|Sauron, Minas Trith şehrini vurmak için harekete geçiyor.
+wavs/49.wav|Miğferdibi bozgunu düşmana bir şeyi gösterdi. İnsanlar sandığı kadar zayıf değil. Hala çok cesurlar. Belki de ona meydan okuyacak kadar güçlüler. Sauron bundan korkuyor.
+wavs/50.wav|Orta dünya halklarının tek bir sancak altında birleşmelerini göze alamaz.
+wavs/51.wav|İnsanların tahtına bir kral oturmasını beklemeden Minas Trith'i yerle bir edecek.
+wavs/52.wav|..Gondor'un işaret kuleleri yanıyorsa......Rohan savaşa hazır olmalı.
+wavs/53.wav|İşler artık geri dönülemeyecek bir noktada.
