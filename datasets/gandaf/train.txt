@@ -1,0 +1,168 @@
+wavs/0.wav|Beşinci günün şafağında beni bekleyin.
+wavs/1.wav|Kral Theoden, bir başına.
+wavs/2.wav|Sauron'un gazabı çok korkunç, cezası tez olacak.
+wavs/3.wav|Orta Dünya Savaşı başlamak üzere.
+wavs/4.wav|Bütün ümidimiz iki minik Hobit'te.
+wavs/5.wav|Yaban ellerde gezen minik hobitlerde.
+wavs/6.wav|Gizli ateşin hizmetkarı.
+wavs/7.wav|Ben Anor Alevi'ni kullanırım.
+wavs/8.wav|Kara Ateş Seni Kurtarmaz Odun Alevi! GÜCE DÖN!
+wavs/9.wav|Buradan asla geçemezsin!
+wavs/10.wav|Kılıçlar artık burada işe yaramaz.
+wavs/11.wav|Kadem dünyadan bir iblis.
+wavs/12.wav|Bu düşman hepimizi aşar.
+wavs/13.wav|Gollum o. Üç gündür peşimizden geliyor. Kaçmış ya da salınmış.
+wavs/14.wav|Yüzüğü hem seviyor hem nefret ediyor. Yazık mı?
+wavs/15.wav|Bilbo'yu durduran ona acımasıydı.
+wavs/16.wav|Canlıların birçoğu ölümü hak eder.
+wavs/17.wav|Ölülerin bazıları da yaşamı.
+wavs/18.wav|Yaşamı onlara verebilir misin Frodo?
+wavs/19.wav|Ölüm hakkında hüküm vermek için acele etme.
+wavs/20.wav|..hislerim, gollumun iyi ya da kötü rolünün bu iş bitmeden...
+wavs/21.wav|Bitmeyeceğini söylüyor.
+wavs/22.wav|Bilbo'nun merhameti bir çok kişiyi etkileyebilir.
+wavs/23.wav|Böyle şeyler yaşayan herkes öyle der ama karar onlara kalmamıştır.
+wavs/24.wav|Yapmamız gereken, bize verilen zamanda yapacağımıza karar vermek.
+wavs/25.wav|Dünyada kötülüğün dışında hareket eden güçler de var Frodo. Bilbo'nun yüzüğü bulması icap ediyordu.
+wavs/26.wav|Bu durumda senin de ona sahip olman icap ediyor.
+wavs/27.wav|Hatırlamadım ama burada hava daha temiz.
+wavs/28.wav|Kuşkun varsa Meryadok, hep burnuna güven.
+wavs/29.wav|O koyaktan dışarı çıkış yoktur. Teodan ayağıyla kafana kısılıyor. Onları emniyete aldığını sanıyor. Bir katliam yaşayacaklar.
+wavs/30.wav|..Theoden'in sağlam bir iradesi olsa da korkuyorum.
+wavs/31.wav|Rohan halkının da ihtiyacı olacak.
+wavs/32.wav|Dayanabilmeleri gerekiyor.
+wavs/33.wav|Üç yüz insan hayatı boyunca yürüdüm Arzda ama artık vaktim kalmadı.
+wavs/34.wav|Şansım yaver giderse bunlar boşa gitmez. Beşinci günün şafağında beni bekleyin.
+wavs/35.wav|Şafak da doğuya bakın.
+wavs/36.wav|Bu Saruman'ın dehşetinin bir parçası sadece.
+wavs/37.wav|Artık Sauron'un korkusuyla güdüldüğü için daha da güçlü.
+wavs/38.wav|Sürün atlarınızı yüzleşin onunla.
+wavs/39.wav|Kadın ve çocuklardan uzaklaştırın onu.
+wavs/40.wav|Ruhu atalarının konaklarına ulaşacaktır.
+wavs/41.wav|Hür havayı çek ciğerine dostum.
+wavs/42.wav|Parmakların bir kılıcı kavrasaydı...
+wavs/43.wav|Eski gücünü daha iyi hatırlardı.
+wavs/44.wav|Bakıyorum da konağınızdaki konukseverlik oldukça...
+wavs/45.wav|Çatallı dilini dişlerinin ardında tut.
+wavs/46.wav|Bir uşakla ağız alaşığına girmek için geçmedim ateşle ölümden.
+wavs/47.wav|Çok uzun zamandır gölgelerde oturdun.
+wavs/48.wav|Seni yaradan zehri çeker gibi çekip çıkartacağım Saruman. Beni öldürmedin.
+wavs/49.wav|Yaşlı bir adamı bastonundan mı ayıracaksın?
+wavs/50.wav|En alttaki zindandan en yüksekteki uca kadar her yerde savaştım Morgoth'lu balrohla.
+wavs/51.wav|Sonunda düşmanı aşağı atıp helak olmuş halini dağın yamacına çaldım.
+wavs/52.wav|Ve hem düşünceden hem zamandan azade kaldım.
+wavs/53.wav|Yıldızlar devrettiler tepemde.
+wavs/54.wav|Her gün, dünya üzerindeki bir ömür kadardı.
+wavs/55.wav|Lakin işin nihayeti bu değildi. Yeniden içimde hayat hissettim.
+wavs/56.wav|Yolculuğumuzun bir safhası bitti, biri başlıyor. Tüm hızımızı Edoras'a yollanmalıyız.
+wavs/57.wav|Nice tehlikeler de dostluk etti bana.
+wavs/58.wav|Beşinci günün şafağında beni bekleyin.
+wavs/59.wav|Kral Töten bir başına.
+wavs/60.wav|Sauron'un gazabı çok korkunç, cezası tez olacak.
+wavs/61.wav|Orta Dünya Savaşı başlamak üzere.
+wavs/62.wav|Bütün ümidimiz iki minik hobbitte.
+wavs/63.wav|Yaban ellerde gezen minik hobbitlerde.
+wavs/64.wav|Hayır yok. Hiçbir şey.
+wavs/65.wav|..Minastrith'e farklı bir yoldan gelmeniz.
+wavs/66.wav|Nehri takip et. Kara gemilere dikkat et.
+wavs/67.wav|İşler artık geri dönülemeyecek bir noktada.
+wavs/68.wav|Minastrith'e doğru yola çıkıyorum.
+wavs/69.wav|Tüm meraklı hobbitlerin içine Peregrintok sen en kötüsüsün. Çabuk çabuk!
+wavs/70.wav|Nazgul uçuşuyla üç günlük yol.
+wavs/71.wav|Onlardan birinin peşimize takılmamasını umalım.
+wavs/72.wav|Evet, Gondor'un ak ağacı. Kralın ağacı.
+wavs/73.wav|Ancak Lord Denethor kral değil. O sadece bir vekil harç. Tahta vekalet ediyor.
+wavs/74.wav|Lorten Denethor, Boromir'in babası.
+wavs/75.wav|Ona sevgili oğlunun ölüm haberini vermek hiç de akıllıca olmaz.
+wavs/76.wav|Aslında hiç konuşmasan daha iyi Peregrintok.
+wavs/77.wav|Selam Excelion oğlu Denethor. Gondor'un lordu ve vekil harcı.
+wavs/78.wav|Bu karanlık saatte haberler ve nasihatlerle geldim sana.
+wavs/79.wav|Boromir için yaz tutacağınız zaman gelecek.
+wavs/80.wav|Düşman kapınıza kadar dayandı.
+wavs/81.wav|Vekil harç olarak şehri savunmakla görevlisiniz. Gondor'un orduları nerede?
+wavs/82.wav|Bu savaşta yalnız değilsiniz.
+wavs/83.wav|Rohanlı Teoden'e haber uçurun. İşaret kulelerini yakın.
+wavs/84.wav|Bundan böyle vekil harcın hizmetindesin. Sana söylenenleri yapmak zorundasın Peregrin.
+wavs/85.wav|Fırtınadan önceki sessizlik bu.
+wavs/86.wav|Sadece orkları değil, insanlarıda.
+wavs/87.wav|Güneydeki harabrimden alayları...
+wavs/88.wav|Sahilden paralı askerler.
+wavs/89.wav|Hepsi, Mordor'un çağrısına cevap verecek.
+wavs/90.wav|Ne olduğunu anlamadan Gondor'un sonu gelecek.
+wavs/91.wav|Savaşın en büyük yıkımı burada yaşanacak.
+wavs/92.wav|Eğer nehir kaybedilir ve oskiliyattaki garnizon yenilirse...
+wavs/93.wav|Şehri saldırıdan koruyacak hiçbir şey kalmayacak.
+wavs/94.wav|Sauron, savaşta Mordor ordularına kumandanlık edecek en ölümcül hizmetkarını kullanacak.
+wavs/95.wav|Hiçbir insanın onu öldüremeyeceği söylenen...
+wavs/96.wav|Fırtına başında Frodo'yu o yaralamıştı. O Nazgul Efendisi.
+wavs/97.wav|Minas Morgulse barınağı.
+wavs/98.wav|Çağımızın en büyük savaşı bu.
+wavs/99.wav|Peregrintok artık yapacak bir vazifen var.
+wavs/100.wav|Şair halkından biri olarak kıymetinizi ispatlama fırsatı.
+wavs/101.wav|Umut alevlendi.
+wavs/102.wav|Bu rastladığın ilk buçukluk değil sanırım.
+wavs/103.wav|Nerede? Ne zaman? En iyi savunma işinizdeki cesarettir.
+wavs/104.wav|Böyle kolay vazgeçme hayatından.
+wavs/105.wav|Savaşı hazırlanın! Acele edin! Sura doğru! Suru savurun!
+wavs/106.wav|Mevzilere dönün, gömün iğrenç yaratıkları cehenneme!
+wavs/107.wav|Aferin Hissar'ın muhafızı. Şimdi tepeye geri dön, çabuk! Çabuk!
+wavs/108.wav|Ölüm sadece başka bir yoldur.
+wavs/109.wav|Bu dünyanın gri yağmur perdesi kalkar.
+wavs/110.wav|Ve her şey gümüş bir aynaya dönüşüyor.
+wavs/111.wav|..Frodo görüş alanımdan tamamen çıktı.
+wavs/112.wav|Evet bir mağlubiyet yaşadı ama...
+wavs/113.wav|Mordor'un surları arkasında yeniden toparlanıyorlar.
+wavs/114.wav|Çünkü Frodo ve hükümd dağı arasına tam 10.000 ork var artık.
+wavs/115.wav|Çünkü bütün gözyaşları yalnızca şerden akmaz.
+wavs/116.wav|Büyücüler hiç geç kalmaz, Frodo Baggins.
+wavs/117.wav|Erken de gelmez. Onlar tam gerektiği vakitte gelir.
+wavs/118.wav|Bilbo amcanın yaş gününü kaçırır mıyım?
+wavs/119.wav|Bizim ihtiyar nasıl? Doğum günü partisi için bir sürpriz yapacağını duydum.
+wavs/120.wav|Eğer ejderhalı olayı kastediyorsan benim hiç alakam yok.
+wavs/121.wav|Kapıdan çıksın diye amcanı azıcık dürttüm o kadar.
+wavs/122.wav|Peki ya çok eski dostları?
+wavs/123.wav|Bilbo Baggins, seni görmek ne hoş. Demek, yüz on bir yaşına giriyorsun ha.
+wavs/124.wav|Hiç yaşlanmamışsın. Çay kafi.
+wavs/125.wav|Hmm... Smough yalnızlığı.
+wavs/126.wav|Çay yeterli. Fili çekinme ye.
+wavs/127.wav|Yani planına sadık kalacaksın. Frodo bir şeyden kuşkulanıyor. Ona anlatacaksın değil mi? Seni çok seviyor.
+wavs/128.wav|Dünyada bir sürü sihirli yüzük var Bilbo Baggins ama hiçbiri düşüncesizce kullanılmamalı.
+wavs/129.wav|Bence yüzüğü bıraksan daha iyi Bilbo.
+wavs/130.wav|Bu çok mu zor? Sinirlenmene gerek yok. Kıymetlin mi?
+wavs/131.wav|Senden başkası da ona bu adı vermişti. Yüzük haddinden fazla sende kaldı.
+wavs/132.wav|Yardım etmeye çalışıyorum. Bir yaşam boyu seninle dostum.
+wavs/133.wav|Eskiden olduğu gibi güven bana.
+wavs/134.wav|Bilbo, yüzük hala cebinde. Eminim yaşayacaksın da aziz dostum.
+wavs/135.wav|Hoşçakal sevgili Bilbo
+wavs/136.wav|Bir daha buluşana dek. Karanlıkta bilmeceler.
+wavs/137.wav|Bilbo'nun yüzüğü. Elfler'in yanına gitti. Çıkın çıkmazını sana bıraktı. Bütün eşyasıyla.
+wavs/138.wav|Onu görülmeyecek bir yere kaldır. Bir sürü işim var. Sorular. Cevap bekleyen sorular.
+wavs/139.wav|İkinci çağın 3034. yılı.
+wavs/140.wav|Gondor'un yüce Kralı Isildur'un eline geçmesi. O bana geldi.
+wavs/141.wav|Krallığımın mirası olacak.
+wavs/142.wav|Ondan gelenlerin kaderleri artık ona bağlı. Yüzüğe bir şey olmasını göze alamam.
+wavs/143.wav|Yüzüğe bir şey olmamalı.
+wavs/144.wav|İlk başta kızıl alevler gibi belirgin olan yazıların hepsi yok oldu artık.
+wavs/145.wav|Sadece ateşin açığa çıkaracağı bir sır bu.
+wavs/146.wav|Saklı mı? Emniyette mi? Elini uzat Frodo.
+wavs/147.wav|Yeterince soğuk. Ne görüyorsun?
+wavs/148.wav|Mordor lisanında yazılmış. Burada dile bile getirmem.
+wavs/149.wav|Ortak lisan da şöyle der, hepsine hükmedecek bir yüzük.
+wavs/150.wav|Hepsini bir araya getirip karanlıkta birbirine bağlayacak.
+wavs/151.wav|Hüküm dağ ateşlerinde dövdüğü, Isildur'un kara hükümdar Sauron'un elinden aldığı yüzük.
+wavs/152.wav|Yüzük 60 yıl boyunca Bilbo'da sessizce durdu.
+wavs/153.wav|Yaşlanmasını engelleyip yaşamanı uzattı.
+wavs/154.wav|Kötülük Mordor'da kıpırdanıyor. Yüzük artık uyandı. Efendisinin çağrısını işitiyor.
+wavs/155.wav|Sauron'un ruhu yok olmadı.
+wavs/156.wav|Onun ruhuyla yüzük birbirine bağlı. Zaten yüzük de yok olmadı. Sauron geri döndü.
+wavs/157.wav|Orkların sayısı arttı. Barad-dûr'daki kalesini Mordor'da yeniden inşa etmiş.
+wavs/158.wav|..Sauron'un tüm mukavemeti kırıp, son savunma haklarını yarıp...
+wavs/159.wav|Dünyayı yeniden karanlığa gömmek için bir tek bu yüzüğe ihtiyacı var.
+wavs/160.wav|Onu arıyor. Aklı fikri yüzükte. Yüzükte sahibine ulaşmaya çalışıyor onlar bir bütün.
+wavs/161.wav|Yüzük ve Karanlıklar Efendisi
+wavs/162.wav|Yüzüğü Bilbo'nun aldığını bilen biri daha vardı.
+wavs/163.wav|Her yerde gollum denen bu yaratığı aradım.
+wavs/164.wav|Ama onu önce düşman bulmuş. Ne kadar işkence gördü bilmiyorum.
+wavs/165.wav|..Bitmeyen çığlıkları ve boş lafları arasından iki kelimeyi çekip çıkarmışlar.
+wavs/166.wav|Yüzüğü bana veremezsen... Kışkırtma beni Frodo! Sana alamam dedim!
+wavs/167.wav|Yüzüğü iyilik yapmak amacıyla kullanırım.
