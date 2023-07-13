@@ -1,0 +1,43 @@
+wavs/168.wav|Eğer ben kullanırsam, ortaya akıl almayacak büyüklükte korkunç bir güç çıkar.
+wavs/169.wav|Gitmelisin. Hem de hemen. Shire'dan çık. Bıri köyüne doğru yollan. Seni bekleyeceğim.
+wavs/170.wav|Sıçrayan midilli hanında buluşuruz. Bilmiyorum, Frodo.
+wavs/171.wav|Başkanımız Saruman'ı görmeliyim. Güçlü ve irfan sahibidir. Güven bana Frodo.
+wavs/172.wav|Baggins ismini ardında bırakmalısın.
+wavs/173.wav|Şair dışında bu isim güvenli olmaz.
+wavs/174.wav|Sevgili Frodo, şu Hobbitler takdiri şayan yaratıklar. Haklarında her şeyi bir ay içinde öğrenebilirsin. Yine de bir bakarsın, yüzlerce yıl sonra insanı şaşırtıvermişler.
+wavs/175.wav|Eğil. Her şeyi batırdın Sam Vayz Gemci! Bizi mi dinliyordun?
+wavs/176.wav|Eşikteki otları kırpmak için biraz geç değil mi? Ne duydun söyle! Konuş!
+wavs/177.wav|Senin için daha parlak fikirlerim.
+wavs/178.wav|Düşmanın bir sürü casusu var. Bütün kurtlar, hatta kuşlar.
+wavs/179.wav|Yüzük sahibine dönmek istiyor.
+wavs/180.wav|Yüzük bulunmak istiyor.
+wavs/181.wav|Çok merak ediyorsan söyleyeyim. Ekimin 24'ü. Saat sabah 10.
+wavs/182.wav|Burada olduğun için sen de şanslısın.
+wavs/183.wav|Az daha iş işten geçmiş olacaktı. İçinde öyle bir güç var ki...
+wavs/184.wav|Yüzüklerin tek bir efendisi vardır.
+wavs/185.wav|Yüzeyi iradesini alabilen bir kişi.
+wavs/186.wav|O da gücünü asla paylaşmaz!
+wavs/187.wav|Hiçbir şey Frodo.
+wavs/188.wav|Sam başucundan hiç ayrılmadı.
+wavs/189.wav|Elrond'un hüneri sayesinde kendine gelebildin.
+wavs/190.wav|Hayatı boyunca taşıyacak.
+wavs/191.wav|Hiç taşımaması gereken bir yüktü.
+wavs/192.wav|Artık Frodo'dan bir şey isteyemeyiz.
+wavs/193.wav|Onun ihaneti tahminimizden de büyük. Saruman Goblinlerle orklardan melez bir ırk yaratmış. Isengard mağaralarında ordu kuruyor.
+wavs/194.wav|Gün ışında da ilerleyip mesafe kat edebilen bir ordu.
+wavs/195.wav|Saruman yüzüğü peşinde.
+wavs/196.wav|..Ümidimizi insanlara bağlayacağız.
+wavs/197.wav|Onları birleştirip Gondor tahtına çıkabilecek biri.
+wavs/198.wav|Hayır Gimli, ancak başka çaremiz kalmazsa Moria yolunu tercih edelim.
+wavs/199.wav|Saruman'ın casusları.
+wavs/200.wav|Sadece Mehtabı ve yıldızların ışığını yansıtır.
+wavs/201.wav|Söyle diyor, Moria hükümdarı Duri'nin kapıları. Söyle dost ve öle gir.
+wavs/202.wav|Gayet basit. Eğer bir dostsan parolayı söylersin ve kapılar açılır.
+wavs/203.wav|Moria'nın karanlığıyla yüzleşme vakti geldi.
+wavs/204.wav|Onlar bizi fark etmeden geçeriz.
+wavs/205.wav|Köprüyü ve ikinci salonu ele geçirdiler.
+wavs/206.wav|Ama çok dayanamayacağız.
+wavs/207.wav|Davullar derinden geliyor.
+wavs/208.wav|Karanlıkta bir gölge var.
+wavs/209.wav|Bir dahaki sefere kendini de atta biz de kurtulalım.
+wavs/210.wav|Bu hobitte görünenden fazlası var galiba.
